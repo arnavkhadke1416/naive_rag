@@ -1,0 +1,110 @@
+{
+  "note": "Fill in questions and expected source filenames/pages after adding the actual PDF collection. Null questions are intentionally not runnable templates.",
+  "cases": [
+    {
+      "id": "single_pdf_1",
+      "category": "single_pdf",
+      "pdf_slot": 1,
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "single_pdf_2",
+      "category": "single_pdf",
+      "pdf_slot": 2,
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "single_pdf_3",
+      "category": "single_pdf",
+      "pdf_slot": 3,
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "single_pdf_4",
+      "category": "single_pdf",
+      "pdf_slot": 4,
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "single_pdf_5",
+      "category": "single_pdf",
+      "pdf_slot": 5,
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "single_pdf_6",
+      "category": "single_pdf",
+      "pdf_slot": 6,
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "single_pdf_7",
+      "category": "single_pdf",
+      "pdf_slot": 7,
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "cross_pdf_synthesis",
+      "category": "cross_pdf",
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "different_terminology",
+      "category": "terminology_difference",
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "answer_absent",
+      "category": "absent_answer",
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "ambiguous_question",
+      "category": "ambiguous",
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "tables_and_lists",
+      "category": "tables_lists",
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "multi_page_section",
+      "category": "multi_page",
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    },
+    {
+      "id": "conflicting_sources",
+      "category": "conflict",
+      "question": null,
+      "expected_sources": [],
+      "status": "needs_real_documents"
+    }
+  ]
+}
